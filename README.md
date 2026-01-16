@@ -1,4 +1,4 @@
-# Rust中文Wiki
+# Rust 学习与实践笔记
 
 作者：<https://github.com/geekdex>
 公众号：极客开发者
@@ -21,4 +21,4 @@ Rust是一种令人兴奋的新兴编程语言，它可以让每个人编写可�
 
 Rust是一门面向未来的编程语言，我相信学习Rust可以让自己未来发展之路越走越远。
 
-[阅读Wiki] <https://webtech.wiki/rust>
+[阅读Wiki] <https://studyrust.webtech.wiki>

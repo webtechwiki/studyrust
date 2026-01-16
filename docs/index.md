@@ -30,7 +30,7 @@ hide:
 }
 </style>
 
-<h2 align="center">《Rust中文Wiki》</h2>
+<h2 align="center">《Rust 学习与实践笔记》</h2>
 
 <p align="center">快速上手Rust，掌握Rust语言核心知识！<br><br></p>
 
