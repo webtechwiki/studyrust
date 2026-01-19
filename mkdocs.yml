@@ -1,7 +1,7 @@
 site_name: Rust 学习与实践笔记
 site_url: https://rust.webtech.wiki
-repo_url: https://github.com/webtechwiki/rust
-repo_name: Rust Chinese Wiki
+repo_url: https://github.com/webtechwiki/studyrust
+repo_name: webtechwiki/studyrust
 site_author: https://github.com/geekdex
 site_description: Rust快速入门
 edit_uri: tree/main/docs
